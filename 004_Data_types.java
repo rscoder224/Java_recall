@@ -6,7 +6,7 @@ public class main{
         int i = 12;
         short a = 234;
         long b = 1888654;
-        float K = 353;
+        float K = 353.373f;
         double S = 238443.53553535355353535;
         char N = 's';
         byte v = 1;
